@@ -30,10 +30,10 @@ From the dataframes above, setting the ninth graders' scores to NaN has dropped 
 
 ### School Summary
 Orignal District Dataframe
-![Original School Summary](analysis/shool_summary_orig.png)
+![Original School Summary](analysis/school_summary_orig.png)
 
 New District Dataframe
-![New School Summary](analysis/shool_summary_ths.png)
+![New School Summary](analysis/school_summary_ths.png)
 
 The only high school affected by this change is Thomas High School. With the exception of the Average Reading Score, we see the scores for Thomas High Schools drop slightly in the following way:
 
